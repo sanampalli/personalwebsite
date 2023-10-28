@@ -5,5 +5,5 @@ description: "Using Azure Policy to enforce standards"
 ---
 
 
-![Meeting](./images/OmahaAzureUG-Sept2023_AzurePolicy[223].png).
-[Youtube Link](https://www.youtube.com/watch?v=PC_4DklB0A4)
+![Meeting](./images/OmahaAzureUG-Sept2023_AzurePolicy[223].png)
+[Presantation - Youtube Link](https://www.youtube.com/watch?v=PC_4DklB0A4)
